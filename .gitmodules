@@ -1,0 +1,6 @@
+[submodule "podaacpy"]
+	path = podaacpy
+	url = https://github.com/nasa/podaacpy
+[submodule "common-mapping-client"]
+	path = common-mapping-client
+	url = https://github.com/nasa/common-mapping-client.git
