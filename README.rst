@@ -14,7 +14,7 @@ This repository reflects an active catalog of all tools and services software pe
 
 Where do I find detailed information on tools and services included in this repository?
 ---------------------------------------------------------------------------------------
-Each repository has it's own README file e.g. `data_animation/README.rst <https://github.com/nasa/podaac_tools_and_services/data_animation/README.rst>`__
+Each repository has it's own README file e.g. `data_animation/README.rst <https://github.com/nasa/podaac_tools_and_services/blob/master/data_animation/README.rst>`__
 
 
 License
