@@ -8,16 +8,20 @@ What is PO.DAAC?
 ----------------
 The `PO.DAAC <https://podaac.jpl.nasa.gov>`__ is an element of the Earth Observing System Data and Information System (`EOSDIS <https://earthdata.nasa.gov/>`__). The EOSDIS provides science data to a wide community of users for NASA's Science Mission Directorate. `PO.DAAC <https://podaac.jpl.nasa.gov>`__ has become the premier data center for measurements focused on ocean surface topography (OST), sea surface temperature (SST), ocean winds, sea surface salinity (SSS), gravity, ocean circulation and sea ice.
 
-What's in this Repository?
+What's in this repository?
 --------------------------
-This repository reflects an active catalog of all tools and services software pertaining to `PO.DAAC data access <https://podaac.jpl.nasa.gov/dataaccess>`__. If you have a suggestion for a new tool or would like to update the content here, please *open an issue* or *send a pull request*.
+This repository reflects an active catalog of all tools and services software pertaining to `PO.DAAC data access <https://podaac.jpl.nasa.gov/dataaccess>`__. If you have a suggestion for a new tool or would like to update the content here, please `open an issue <https://github.com/nasa/podaac_tools_and_services/issues>`__ or `send a pull request <https://github.com/nasa/podaac_tools_and_services/pulls>`__.
+
+Where do I find detailed information on tools and services included in this repository?
+---------------------------------------------------------------------------------------
+Each repository has it's own README file e.g. `data_animation/README.rst <https://github.com/nasa/podaac_tools_and_services/data_animation/README.rst>`__
+
 
 License
 -------
-
-| podaacpy is licensed permissively under the `Apache License
+| Unless noted explicitly, all code in this repository is licensed permissively under the `Apache License
   v2.0 <http://www.apache.org/licenses/LICENSE-2.0>`__.
-| A copy of that license is distributed with this software.
+| A copy of that license is distributed with each software project.
 
 Copyright and Export Classification
 -----------------------------------
