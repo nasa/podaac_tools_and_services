@@ -16,6 +16,16 @@ Where do I find detailed information on tools and services included in this repo
 ---------------------------------------------------------------------------------------
 Each repository has it's own README file e.g. `data_animation/README.rst <https://github.com/nasa/podaac_tools_and_services/blob/master/data_animation/README.rst>`__
 
+Keeping Git submodules up-to-date
+---------------------------------
+In order to keep the submodules as defined in [.gitmodules](https://github.com/nasa/podaac_tools_and_services/blob/master/.gitmodules) up-to-date it is necessary to periodically push updates. You can safely execute this command to do so
+```
+$ git submodule foreach git pull origin master
+$ git status //you will then see the changes which have been mode
+$ git add -A
+$ git commit -m "Update submodules"
+$ git push origin master
+```
 
 License
 -------
