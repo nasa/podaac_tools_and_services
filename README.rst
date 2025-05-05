@@ -2,6 +2,8 @@ podaac_tools_and_services
 =========================
 This is a meta-repository which lists locations of code related to all tools and services software for `NASA JPL's Physical Oceanography Distributed Active Archive Center (PO.DAAC) <https://podaac.jpl.nasa.gov>`__.
 
+** This repository has been archived as of May 2025.  It is not actively used and is archived for informational and legacy purposes  **
+
 |image7|
 
 What is PO.DAAC?
